@@ -1,0 +1,2 @@
+[Mon Oct 20 21:36:42 2025] Deposited: 3000.00
+[Mon Oct 20 21:36:49 2025] Withdrawn: 25.00
